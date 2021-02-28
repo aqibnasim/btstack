@@ -49,6 +49,7 @@
  */
 
 #include "btstack_config.h"
+# include "btstack_util.h"
 
 // enable POSIX functions (needed for -std=c99)
 #define _POSIX_C_SOURCE 200809

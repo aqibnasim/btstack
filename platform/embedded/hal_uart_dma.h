@@ -114,6 +114,7 @@ void hal_uart_dma_set_csr_irq_handler( void (*csr_irq_handler)(void));
  */
 void hal_uart_dma_set_sleep(uint8_t sleep);
 
+
 #ifdef HAVE_HAL_UART_DMA_SLEEP_MODES
 
 /**

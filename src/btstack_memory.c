@@ -1603,6 +1603,9 @@ void btstack_memory_mesh_subnet_free(mesh_subnet_t *mesh_subnet){
 
 // init
 void btstack_memory_init(void){
+
+
+	HAL_Delay( 1000 );
 #ifdef HAVE_MALLOC
     // assert that there is no unexpected padding for combined buffer
     btstack_assert(sizeof(test_buffer_t) == sizeof(btstack_memory_buffer_t) + sizeof(void *));
