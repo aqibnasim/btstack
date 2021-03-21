@@ -1,0 +1,4 @@
+powerui_pb.c:17:10:powerui_pb_pollstate	16	static
+powerui_pb.c:24:6:powerui_pb_callback	56	static
+powerui_pb.c:57:6:powerui_pbenable_clockfn	40	static
+powerui_pb.c:71:6:powerui_pbtimer_clockfn	40	static

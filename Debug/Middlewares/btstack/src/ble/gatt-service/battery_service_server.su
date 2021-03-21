@@ -1,0 +1,5 @@
+battery_service_server.c:66:17:battery_service_read_callback	24	static
+battery_service_server.c:78:12:battery_service_write_callback	24	static
+battery_service_server.c:90:13:battery_service_can_send_now	24	static
+battery_service_server.c:95:6:battery_service_server_init	24	static
+battery_service_server.c:118:6:battery_service_server_set_battery_value	16	static

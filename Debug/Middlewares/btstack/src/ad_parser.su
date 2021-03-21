@@ -1,0 +1,8 @@
+ad_parser.c:58:6:ad_iterator_init	24	static
+ad_parser.c:64:6:ad_iterator_has_more	24	static
+ad_parser.c:84:6:ad_iterator_next	24	static
+ad_parser.c:89:11:ad_iterator_get_data_len	16	static
+ad_parser.c:93:11:ad_iterator_get_data_type	16	static
+ad_parser.c:97:17:ad_iterator_get_data	16	static
+ad_parser.c:101:6:ad_data_contains_uuid16	72	static
+ad_parser.c:140:6:ad_data_contains_uuid128	80	static

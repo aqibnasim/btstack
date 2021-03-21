@@ -1,0 +1,16 @@
+btstack_uart_block_embedded.c:68:13:btstack_uart_block_received	8	static
+btstack_uart_block_embedded.c:73:13:btstack_uart_block_sent	8	static
+btstack_uart_block_embedded.c:78:13:btstack_uart_cts_pulse	8	static
+btstack_uart_block_embedded.c:83:12:btstack_uart_embedded_init	16	static
+btstack_uart_block_embedded.c:90:13:btstack_uart_embedded_process	16	static
+btstack_uart_block_embedded.c:117:12:btstack_uart_embedded_open	8	static
+btstack_uart_block_embedded.c:128:12:btstack_uart_embedded_close	8	static
+btstack_uart_block_embedded.c:139:13:btstack_uart_embedded_set_block_received	16	static
+btstack_uart_block_embedded.c:143:13:btstack_uart_embedded_set_block_sent	16	static
+btstack_uart_block_embedded.c:147:13:btstack_uart_embedded_set_wakeup_handler	16	static
+btstack_uart_block_embedded.c:151:12:btstack_uart_embedded_set_parity	16	static
+btstack_uart_block_embedded.c:155:13:btstack_uart_embedded_send_block	16	static
+btstack_uart_block_embedded.c:159:13:btstack_uart_embedded_receive_block	16	static
+btstack_uart_block_embedded.c:163:12:btstack_uart_embedded_get_supported_sleep_modes	4	static
+btstack_uart_block_embedded.c:171:13:btstack_uart_embedded_set_sleep	24	static
+btstack_uart_block_embedded.c:207:30:btstack_uart_block_embedded_instance	4	static

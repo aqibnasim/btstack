@@ -1,0 +1,12 @@
+btstack_linked_list.c:52:7:btstack_linked_list_empty	16	static
+btstack_linked_list.c:59:25:btstack_linked_list_get_last_item	24	static
+btstack_linked_list.c:74:6:btstack_linked_list_add	24	static
+btstack_linked_list.c:88:6:btstack_linked_list_add_tail	24	static
+btstack_linked_list.c:101:7:btstack_linked_list_remove	24	static
+btstack_linked_list.c:116:6:btstack_linked_list_count	24	static
+btstack_linked_list.c:126:25:btstack_linked_list_get_first_item	16	static
+btstack_linked_list.c:131:25:btstack_linked_list_pop	24	static
+btstack_linked_list.c:143:6:btstack_linked_list_iterator_init	16	static
+btstack_linked_list.c:149:6:btstack_linked_list_iterator_has_next	16	static
+btstack_linked_list.c:162:25:btstack_linked_list_iterator_next	16	static
+btstack_linked_list.c:177:6:btstack_linked_list_iterator_remove	16	static

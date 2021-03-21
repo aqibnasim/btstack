@@ -1,0 +1,11 @@
+hci_dump.c:127:6:hci_dump_open	16	static
+hci_dump.c:170:13:hci_dump_packetlogger_setup_header	32	static
+hci_dump.c:197:13:hci_dump_bluez_setup_header	24	static
+hci_dump.c:206:13:printf_packet	16	static
+hci_dump.c:237:13:printf_timestamp	40	static
+hci_dump.c:266:6:hci_dump_packet	40	static
+hci_dump.c:365:12:hci_dump_log_level_active	16	static
+hci_dump.c:371:6:hci_dump_log_va_arg	24	static
+hci_dump.c:388:6:hci_dump_log	28	static
+hci_dump.c:407:6:hci_dump_close	4	static
+hci_dump.c:414:6:hci_dump_enable_log_level	16	static

@@ -1,0 +1,2 @@
+btstack_tlv.c:47:6:btstack_tlv_set_instance	24	static
+btstack_tlv.c:53:6:btstack_tlv_get_instance	16	static

@@ -1,0 +1,9 @@
+mesh_virtual_addresses.c:54:10:mesh_virtual_addresses_get_free_pseudo_dst	16	static
+mesh_virtual_addresses.c:64:6:mesh_virtual_address_add	16	static
+mesh_virtual_addresses.c:70:6:mesh_virtual_address_remove	16	static
+mesh_virtual_addresses.c:76:26:mesh_virtual_address_register	24	static
+mesh_virtual_addresses.c:90:26:mesh_virtual_address_for_pseudo_dst	32	static
+mesh_virtual_addresses.c:100:26:mesh_virtual_address_for_label_uuid	32	static
+mesh_virtual_addresses.c:111:6:mesh_virtual_address_iterator_init	16	static
+mesh_virtual_addresses.c:117:5:mesh_virtual_address_iterator_has_more	16	static
+mesh_virtual_addresses.c:128:32:mesh_virtual_address_iterator_get_next	24	static

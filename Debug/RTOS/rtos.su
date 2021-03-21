@@ -1,0 +1,8 @@
+rtos.c:18:6:rtos_createThread	32	static
+rtos.c:28:6:rtos_createMailbox	24	static
+rtos.c:35:6:rtos_createSemaphore	16	static
+rtos.c:43:6:rtos_createClock	40	static
+rtos.c:55:6:rtos_cmd_fail	16	static
+rtos.c:63:6:rtos_cmd_success	16	static
+rtos.c:71:6:rtos_Sleep_mS	16	static
+rtos.c:78:6:rtos_Sleep_S	16	static

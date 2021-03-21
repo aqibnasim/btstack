@@ -1,0 +1,16 @@
+powerui.c:131:6:poweruiInit	40	static
+powerui.c:191:6:powerui_post_cmd	40	static
+powerui.c:204:6:powerui_post_cmdwait	32	static
+powerui.c:214:8:poweruiChkSOC	16	static
+powerui.c:221:6:poweruiLoadDefaultsToNVS	24	static
+powerui.c:274:6:powerui_task_commands	32	static
+powerui.c:342:6:powerui_init	64	static
+powerui.c:419:6:powerui_bq_LDOEnable	24	static
+powerui.c:457:6:powerui_bq_LDODisable	24	static
+powerui.c:493:6:powerui_ls_Enable	16	static
+powerui.c:509:6:powerui_ls_Disable	16	static
+powerui.c:525:6:powerui_bq_EnterShipMode	24	static
+powerui.c:556:6:powerui_ncp_LEDOff	24	static
+powerui.c:575:6:powerui_ncp_PairStart	16	static
+powerui.c:589:6:powerui_ncp_ChargeStart	16	static
+powerui.c:603:6:powerui_ncp_LowbatStart	16	static

@@ -1,0 +1,5 @@
+powerui_frame.c:17:13:powerui_frame_pollstate	16	static
+powerui_frame.c:24:6:powerui_frame_statuschanged	16	static
+powerui_frame.c:37:6:powerui_frame_update	16	static
+powerui_frame.c:47:6:powerui_frame_callback	56	static
+powerui_frame.c:65:6:powerui_framedebounce_clockfn	40	static

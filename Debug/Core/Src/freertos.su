@@ -1,0 +1,5 @@
+freertos.c:74:13:vApplicationIdleHook	4	static
+freertos.c:93:13:vApplicationStackOverflowHook	16	static
+freertos.c:104:13:vPortSuppressTicksAndSleep	16	static
+freertos.c:117:6:MX_FREERTOS_Init	8	static
+freertos.c:163:13:StartDefaultTask	16	static

@@ -1,0 +1,7 @@
+powerui_pmic.c:29:6:powerui_bq_update	24	static
+powerui_pmic.c:61:6:powerui_bq_write_address	24	static
+powerui_pmic.c:90:6:powerui_bq_read_address	32	static
+powerui_pmic.c:120:6:powerui_bq_ChipDisable	16	static
+powerui_pmic.c:129:6:powerui_bq_ChipEnable	16	static
+powerui_pmic.c:141:6:powerui_bq_ChargingCheck	16	static
+powerui_pmic.c:151:8:powerui_bq_findSOC	24	static

@@ -1,0 +1,12 @@
+avdtp_util.h:55:23:avdtp_header	16	static
+avdtp_acceptor.c:48:12:avdtp_acceptor_send_accept_response	24	static
+avdtp_acceptor.c:56:13:avdtp_acceptor_process_chunk	24	static
+avdtp_acceptor.c:68:12:avdtp_acceptor_validate_msg_length	24	static
+avdtp_acceptor.c:89:1:avdtp_acceptor_handle_configuration_command	136	static
+avdtp_acceptor.c:147:6:avdtp_acceptor_stream_config_subsm	152	static
+avdtp_acceptor.c:432:12:avdtp_acceptor_send_seps_response	72	static
+avdtp_acceptor.c:448:12:avdtp_acceptor_send_response_reject_service_category	32	static
+avdtp_acceptor.c:457:12:avdtp_acceptor_send_response_general_reject	24	static
+avdtp_acceptor.c:464:12:avdtp_acceptor_send_response_reject	24	static
+avdtp_acceptor.c:471:12:avdtp_acceptor_send_response_reject_with_error_code	32	static
+avdtp_acceptor.c:479:6:avdtp_acceptor_stream_config_subsm_run	200	static

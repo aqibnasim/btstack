@@ -1,0 +1,9 @@
+avdtp_util.h:55:23:avdtp_header	16	static
+avdtp_initiator.c:52:12:avdtp_initiator_send_signaling_cmd	24	static
+avdtp_initiator.c:59:12:avdtp_initiator_send_signaling_cmd_with_seid	32	static
+avdtp_initiator.c:67:12:avdtp_initiator_send_signaling_cmd_delay_report	32	static
+avdtp_initiator.c:76:6:avdtp_initiator_stream_config_subsm	216	static
+avdtp_initiator.c:304:13:avdtp_initiator_stream_config_subsm_run_signaling	16	static
+avdtp_initiator.c:338:13:avdtp_initiator_stream_config_subsm_run_endpoint	88	static
+avdtp_initiator.c:408:6:avdtp_initiator_stream_config_subsm_handle_can_send_now_signaling	24	static
+avdtp_initiator.c:483:6:avdtp_initiator_stream_config_subsm_handle_can_send_now_stream_endpoint	16	static

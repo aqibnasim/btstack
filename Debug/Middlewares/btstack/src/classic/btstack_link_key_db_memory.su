@@ -1,0 +1,11 @@
+btstack_link_key_db_memory.c:55:13:db_open	4	static
+btstack_link_key_db_memory.c:58:13:db_set_local_bd_addr	16	static
+btstack_link_key_db_memory.c:62:13:db_close	4	static
+btstack_link_key_db_memory.c:65:45:get_item	24	static
+btstack_link_key_db_memory.c:76:12:get_link_key	32	static
+btstack_link_key_db_memory.c:91:13:delete_link_key	24	static
+btstack_link_key_db_memory.c:101:13:put_link_key	32	static
+btstack_link_key_db_memory.c:130:12:iterator_init	16	static
+btstack_link_key_db_memory.c:135:13:iterator_get_next	32	static
+btstack_link_key_db_memory.c:150:13:iterator_done	16	static
+btstack_link_key_db_memory.c:166:31:btstack_link_key_db_memory_instance	4	static

@@ -1,0 +1,3 @@
+internal_flash_driver.c:6:6:FlashWrite	64	static
+internal_flash_driver.c:69:6:FlashUnlock	8	static
+internal_flash_driver.c:77:6:FlashLock	8	static

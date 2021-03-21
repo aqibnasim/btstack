@@ -1,0 +1,3 @@
+btstack_base64_decoder.c:52:6:btstack_base64_decoder_init	16	static
+btstack_base64_decoder.c:61:6:btstack_base64_decoder_process_byte	24	static
+btstack_base64_decoder.c:130:5:btstack_base64_decoder_process_block	40	static

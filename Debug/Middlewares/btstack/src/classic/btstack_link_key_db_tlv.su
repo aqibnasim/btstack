@@ -1,0 +1,11 @@
+btstack_link_key_db_tlv.c:73:17:btstack_link_key_db_tag_for_index	16	static
+btstack_link_key_db_tlv.c:78:13:btstack_link_key_db_tlv_open	4	static
+btstack_link_key_db_tlv.c:81:13:btstack_link_key_db_tlv_set_bd_addr	16	static
+btstack_link_key_db_tlv.c:85:13:btstack_link_key_db_tlv_close	4	static
+btstack_link_key_db_tlv.c:88:12:btstack_link_key_db_tlv_get_link_key	80	static
+btstack_link_key_db_tlv.c:105:13:btstack_link_key_db_tlv_delete_link_key	64	static
+btstack_link_key_db_tlv.c:119:13:btstack_link_key_db_tlv_put_link_key	144	static
+btstack_link_key_db_tlv.c:181:12:btstack_link_key_db_tlv_iterator_init	16	static
+btstack_link_key_db_tlv.c:186:13:btstack_link_key_db_tlv_iterator_get_next	80	static
+btstack_link_key_db_tlv.c:204:13:btstack_link_key_db_tlv_iterator_done	16	static
+btstack_link_key_db_tlv.c:220:31:btstack_link_key_db_tlv_get_instance	16	static

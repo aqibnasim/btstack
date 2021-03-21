@@ -1,0 +1,12 @@
+btstack_link_key_db_static.c:69:14:link_key_to_str	32	static
+btstack_link_key_db_static.c:80:12:sscanf_link_key	152	static
+btstack_link_key_db_static.c:104:13:link_key_db_init	4	static
+btstack_link_key_db_static.c:107:13:link_key_db_close	4	static
+btstack_link_key_db_static.c:112:12:link_key_db_get_link_key	32	static
+btstack_link_key_db_static.c:125:13:link_key_db_delete_link_key	16	static
+btstack_link_key_db_static.c:130:13:link_key_db_put_link_key	48	static
+btstack_link_key_db_static.c:135:13:link_key_db_set_local_bd_addr	16	static
+btstack_link_key_db_static.c:139:12:link_key_db_tlv_iterator_init	16	static
+btstack_link_key_db_static.c:144:13:link_key_db_tlv_iterator_get_next	32	static
+btstack_link_key_db_static.c:160:13:link_key_db_tlv_iterator_done	16	static
+btstack_link_key_db_static.c:176:31:btstack_link_key_db_static_instance	4	static

@@ -1,0 +1,7 @@
+btstack_ring_buffer.c:54:6:btstack_ring_buffer_init	24	static
+btstack_ring_buffer.c:60:6:btstack_ring_buffer_reset	16	static
+btstack_ring_buffer.c:66:10:btstack_ring_buffer_bytes_available	24	static
+btstack_ring_buffer.c:74:5:btstack_ring_buffer_empty	16	static
+btstack_ring_buffer.c:79:10:btstack_ring_buffer_bytes_free	24	static
+btstack_ring_buffer.c:84:5:btstack_ring_buffer_write	32	static
+btstack_ring_buffer.c:120:6:btstack_ring_buffer_read	32	static

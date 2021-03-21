@@ -1,0 +1,9 @@
+i2s_peri.c:22:6:i2sInit	24	static
+i2s_peri.c:39:6:i2s_MspInit	16	static
+i2s_peri.c:46:6:i2s_MspDeInit	16	static
+i2s_peri.c:53:6:i2s_startEmptyStream	16	static
+i2s_peri.c:67:6:i2s_stopStream	16	static
+i2s_peri.c:79:12:i2s_matchObject	24	static
+i2s_peri.c:97:6:i2sCheckBusy	16	static
+i2s_peri.c:107:6:HAL_I2S_TxCpltCallback	24	static
+i2s_peri.c:117:6:HAL_I2S_TxHalfCpltCallback	24	static

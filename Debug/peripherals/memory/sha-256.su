@@ -1,0 +1,7 @@
+sha-256.c:47:24:right_rot	16	static
+sha-256.c:56:13:init_buf_state	24	static
+sha-256.c:72:13:init_buf_state_flash	24	static
+sha-256.c:82:12:calc_chunk	48	static
+sha-256.c:147:12:calc_chunk_flash	32	static
+sha-256.c:211:6:calc_sha_256	256	static
+sha-256.c:311:6:calc_sha_256_flash	304	static

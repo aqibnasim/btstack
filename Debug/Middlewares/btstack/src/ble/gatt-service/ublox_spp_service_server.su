@@ -1,0 +1,9 @@
+ublox_spp_service_server.c:96:12:ublox_spp_service_flow_control_enabled	16	static
+ublox_spp_service_server.c:100:30:ublox_get_instance_for_con_handle	24	static
+ublox_spp_service_server.c:107:20:ublox_spp_service_init_credits	16	static
+ublox_spp_service_server.c:113:17:ublox_spp_service_read_callback	32	static
+ublox_spp_service_server.c:136:12:ublox_spp_service_write_callback	48	static
+ublox_spp_service_server.c:190:13:ublox_spp_credits_callback	24	static
+ublox_spp_service_server.c:204:6:ublox_spp_service_server_init	40	static
+ublox_spp_service_server.c:253:6:ublox_spp_service_server_request_can_send_now	24	static
+ublox_spp_service_server.c:268:5:ublox_spp_service_server_send	24	static

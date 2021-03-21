@@ -1,0 +1,3 @@
+btstack_memory_pool.c:58:6:btstack_memory_pool_create	40	static
+btstack_memory_pool.c:71:8:btstack_memory_pool_get	24	static
+btstack_memory_pool.c:83:6:btstack_memory_pool_free	32	static

@@ -1,0 +1,2 @@
+mesh_peer.c:54:6:mesh_seq_auth_reset	16	static
+mesh_peer.c:61:15:mesh_peer_for_addr	24	static

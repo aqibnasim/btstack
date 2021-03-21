@@ -1,0 +1,13 @@
+btstack_hid_parser.c:121:13:hid_pretty_print_item	16	static
+btstack_hid_parser.c:150:6:btstack_hid_parse_descriptor_item	64	static
+btstack_hid_parser.c:189:13:btstack_hid_handle_global_item	16	static
+btstack_hid_parser.c:230:13:hid_find_next_usage	32	static
+btstack_hid_parser.c:266:13:hid_process_item	24	static
+btstack_hid_parser.c:320:13:hid_post_process_item	16	static
+btstack_hid_parser.c:329:13:btstack_hid_parser_find_next_usage	16	static
+btstack_hid_parser.c:354:6:btstack_hid_parser_init	24	static
+btstack_hid_parser.c:368:6:btstack_hid_parser_has_more	16	static
+btstack_hid_parser.c:372:6:btstack_hid_parser_get_field	56	static
+btstack_hid_parser.c:427:5:btstack_hid_get_report_size_for_id	56	static
+btstack_hid_parser.c:487:24:btstack_hid_id_valid	40	static
+btstack_hid_parser.c:513:5:btstack_hid_report_id_declared	32	static

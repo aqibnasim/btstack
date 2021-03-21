@@ -1,0 +1,8 @@
+btstack_slip.c:83:6:btstack_slip_encoder_start	16	static
+btstack_slip.c:93:6:btstack_slip_encoder_has_data	4	static
+btstack_slip.c:102:9:btstack_slip_encoder_get_byte	24	static
+btstack_slip.c:133:13:btstack_slip_decoder_reset	4	static
+btstack_slip.c:138:13:btstack_slip_decoder_store_byte	16	static
+btstack_slip.c:151:6:btstack_slip_decoder_init	16	static
+btstack_slip.c:162:6:btstack_slip_decoder_process	16	static
+btstack_slip.c:229:10:btstack_slip_decoder_frame_size	4	static

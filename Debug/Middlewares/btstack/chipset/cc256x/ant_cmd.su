@@ -1,0 +1,3 @@
+ant_cmd.c:58:17:ant_cmd_create_from_template	48	static
+ant_cmd.c:123:10:ant_create_cmd	28	static
+ant_cmd.c:135:5:ant_send_cmd	16	static

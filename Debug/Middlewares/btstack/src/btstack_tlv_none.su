@@ -1,0 +1,4 @@
+btstack_tlv_none.c:44:12:btstack_tlv_none_get_tag	24	static
+btstack_tlv_none.c:54:12:btstack_tlv_none_store_tag	24	static
+btstack_tlv_none.c:62:13:btstack_tlv_none_delete_tag	16	static
+btstack_tlv_none.c:74:23:btstack_tlv_none_init_instance	4	static

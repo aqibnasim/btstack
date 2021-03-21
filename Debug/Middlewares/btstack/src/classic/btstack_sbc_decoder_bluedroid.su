@@ -1,0 +1,14 @@
+btstack_sbc_decoder_bluedroid.c:93:6:btstack_sbc_decoder_test_set_plc_enabled	16	static
+btstack_sbc_decoder_bluedroid.c:97:6:btstack_sbc_decoder_test_simulate_corrupt_frames	16	static
+btstack_sbc_decoder_bluedroid.c:101:12:find_sequence_of_zeros	32	static
+btstack_sbc_decoder_bluedroid.c:116:12:find_h2_sync	40	static
+btstack_sbc_decoder_bluedroid.c:144:5:btstack_sbc_decoder_num_samples_per_frame	24	static
+btstack_sbc_decoder_bluedroid.c:149:5:btstack_sbc_decoder_num_channels	24	static
+btstack_sbc_decoder_bluedroid.c:154:5:btstack_sbc_decoder_sample_rate	24	static
+btstack_sbc_decoder_bluedroid.c:165:6:btstack_sbc_decoder_init	40	static
+btstack_sbc_decoder_bluedroid.c:201:13:append_received_sbc_data	40	static
+btstack_sbc_decoder_bluedroid.c:213:13:btstack_sbc_decoder_bluedroid_simulate_error	16	static
+btstack_sbc_decoder_bluedroid.c:225:13:btstack_sbc_decoder_process_sbc_data	88	static
+btstack_sbc_decoder_bluedroid.c:327:13:btstack_sbc_decoder_insert_missing_frames	64	static
+btstack_sbc_decoder_bluedroid.c:370:13:btstack_sbc_decoder_process_msbc_data	104	static
+btstack_sbc_decoder_bluedroid.c:527:6:btstack_sbc_decoder_process_data	24	static

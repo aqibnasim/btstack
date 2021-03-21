@@ -1,0 +1,14 @@
+mesh_generic_on_off_server.c:57:13:generic_server_send_message	48	static
+mesh_generic_on_off_server.c:65:28:generic_on_off_server_get_base_transition	24	static
+mesh_generic_on_off_server.c:70:13:mesh_server_transition_handler	40	static
+mesh_generic_on_off_server.c:98:13:mesh_server_transition_setup_transition_or_instantaneous_update	32	static
+mesh_generic_on_off_server.c:106:6:mesh_generic_on_off_server_register_packet_handler	16	static
+mesh_generic_on_off_server.c:120:21:mesh_generic_on_off_status_message	40	static
+mesh_generic_on_off_server.c:137:13:generic_on_off_get_handler	48	static
+mesh_generic_on_off_server.c:145:13:generic_on_off_handle_set_message	56	static
+mesh_generic_on_off_server.c:184:13:generic_on_off_set_handler	48	static
+mesh_generic_on_off_server.c:195:13:generic_on_off_set_unacknowledged_handler	16	static
+mesh_generic_on_off_server.c:208:26:mesh_generic_on_off_server_get_operations	4	static
+mesh_generic_on_off_server.c:212:6:mesh_generic_on_off_server_set	24	static
+mesh_generic_on_off_server.c:220:9:mesh_generic_on_off_server_get	24	static
+mesh_generic_on_off_server.c:225:6:mesh_generic_on_off_server_set_publication_model	16	static

@@ -1,0 +1,10 @@
+att_dispatch.c:65:13:att_packet_handler	40	static
+att_dispatch.c:111:6:att_dispatch_register_client	16	static
+att_dispatch.c:120:6:att_dispatch_register_server	16	static
+att_dispatch.c:129:5:att_dispatch_client_can_send_now	16	static
+att_dispatch.c:137:5:att_dispatch_server_can_send_now	16	static
+att_dispatch.c:147:6:att_dispatch_client_request_can_send_now_event	16	static
+att_dispatch.c:161:6:att_dispatch_server_request_can_send_now_event	16	static
+att_dispatch.c:169:13:emit_mtu_exchange_complete	32	static
+att_dispatch.c:179:6:att_dispatch_server_mtu_exchanged	16	static
+att_dispatch.c:183:6:att_dispatch_client_mtu_exchanged	16	static

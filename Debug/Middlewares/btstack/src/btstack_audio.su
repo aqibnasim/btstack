@@ -1,0 +1,4 @@
+btstack_audio.c:55:30:btstack_audio_sink_get_instance	4	static
+btstack_audio.c:63:32:btstack_audio_source_get_instance	4	static
+btstack_audio.c:71:6:btstack_audio_sink_set_instance	16	static
+btstack_audio.c:79:6:btstack_audio_source_set_instance	16	static

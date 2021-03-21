@@ -1,0 +1,3 @@
+hal_cpu.c:4:6:hal_cpu_disable_irqs	4	static,ignoring_inline_asm
+hal_cpu.c:8:6:hal_cpu_enable_irqs	4	static,ignoring_inline_asm
+hal_cpu.c:12:6:hal_cpu_enable_irqs_and_sleep	4	static,ignoring_inline_asm

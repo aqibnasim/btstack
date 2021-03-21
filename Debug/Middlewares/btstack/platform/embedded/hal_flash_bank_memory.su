@@ -1,0 +1,6 @@
+hal_flash_bank_memory.c:51:17:hal_flash_bank_memory_get_size	24	static
+hal_flash_bank_memory.c:56:17:hal_flash_bank_memory_get_alignment	16	static
+hal_flash_bank_memory.c:61:13:hal_flash_bank_memory_erase	24	static
+hal_flash_bank_memory.c:67:13:hal_flash_bank_memory_read	32	static
+hal_flash_bank_memory.c:79:13:hal_flash_bank_memory_write	40	static
+hal_flash_bank_memory.c:116:26:hal_flash_bank_memory_init_instance	24	static

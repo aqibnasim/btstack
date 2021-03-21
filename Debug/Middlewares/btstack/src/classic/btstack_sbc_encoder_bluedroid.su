@@ -1,0 +1,5 @@
+btstack_sbc_encoder_bluedroid.c:74:6:btstack_sbc_encoder_init	32	static
+btstack_sbc_encoder_bluedroid.c:132:6:btstack_sbc_encoder_process_data	24	static
+btstack_sbc_encoder_bluedroid.c:144:5:btstack_sbc_encoder_num_audio_frames	16	static
+btstack_sbc_encoder_bluedroid.c:149:11:btstack_sbc_encoder_sbc_buffer	16	static
+btstack_sbc_encoder_bluedroid.c:154:11:btstack_sbc_encoder_sbc_buffer_length	16	static

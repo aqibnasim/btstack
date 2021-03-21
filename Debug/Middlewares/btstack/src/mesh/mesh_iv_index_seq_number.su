@@ -1,0 +1,11 @@
+mesh_iv_index_seq_number.c:49:6:mesh_set_iv_index	16	static
+mesh_iv_index_seq_number.c:53:10:mesh_get_iv_index	4	static
+mesh_iv_index_seq_number.c:57:10:mesh_get_iv_index_for_tx	4	static
+mesh_iv_index_seq_number.c:65:5:mesh_iv_update_active	4	static
+mesh_iv_index_seq_number.c:69:6:mesh_trigger_iv_update	4	static
+mesh_iv_index_seq_number.c:89:6:mesh_iv_update_completed	4	static
+mesh_iv_index_seq_number.c:95:6:mesh_iv_index_recovered	24	static
+mesh_iv_index_seq_number.c:105:6:mesh_sequence_number_set_update_callback	16	static
+mesh_iv_index_seq_number.c:109:6:mesh_sequence_number_set	16	static
+mesh_iv_index_seq_number.c:113:10:mesh_sequence_number_next	16	static
+mesh_iv_index_seq_number.c:123:10:mesh_sequence_number_peek	4	static

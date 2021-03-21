@@ -1,0 +1,16 @@
+le_device_db_tlv.c:104:17:le_device_db_tlv_tag_for_index	16	static
+le_device_db_tlv.c:114:13:le_device_db_tlv_fetch	32	static
+le_device_db_tlv.c:126:13:le_device_db_tlv_store	32	static
+le_device_db_tlv.c:137:13:le_device_db_tlv_delete	24	static
+le_device_db_tlv.c:147:13:le_device_db_tlv_scan	80	static
+le_device_db_tlv.c:162:6:le_device_db_init	8	static
+le_device_db_tlv.c:169:6:le_device_db_set_local_bd_addr	16	static
+le_device_db_tlv.c:174:5:le_device_db_count	4	static
+le_device_db_tlv.c:178:5:le_device_db_max_count	4	static
+le_device_db_tlv.c:182:6:le_device_db_remove	16	static
+le_device_db_tlv.c:199:5:le_device_db_add	200	static
+le_device_db_tlv.c:281:6:le_device_db_info	96	static
+le_device_db_tlv.c:299:6:le_device_db_encryption_set	120	static
+le_device_db_tlv.c:324:6:le_device_db_encryption_get	120	static
+le_device_db_tlv.c:454:6:le_device_db_dump	96	static
+le_device_db_tlv.c:472:6:le_device_db_tlv_configure	16	static

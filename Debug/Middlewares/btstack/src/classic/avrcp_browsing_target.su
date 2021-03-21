@@ -1,0 +1,11 @@
+btstack_event.h:68:23:hci_event_packet_get_type	16	static
+avrcp_browsing_target.c:49:12:avrcp_browsing_target_handle_can_send_now	320	static
+avrcp_browsing_target.c:71:16:avrcp_browsing_target_response_general_reject	24	static
+avrcp_browsing_target.c:86:13:avrcp_browsing_target_emit_get_folder_items	48	static
+avrcp_browsing_target.c:102:13:avrcp_browsing_target_emit_get_total_num_items	48	static
+avrcp_browsing_target.c:117:13:avrcp_browsing_target_packet_handler	56	static
+avrcp_browsing_target.c:202:6:avrcp_browsing_target_init	8	static
+avrcp_browsing_target.c:207:6:avrcp_browsing_target_deinit	4	static
+avrcp_browsing_target.c:211:6:avrcp_browsing_target_register_packet_handler	16	static
+avrcp_browsing_target.c:216:9:avrcp_browsing_target_send_get_folder_items_response	48	static
+avrcp_browsing_target.c:258:9:avrcp_browsing_target_send_get_total_num_items_response	40	static

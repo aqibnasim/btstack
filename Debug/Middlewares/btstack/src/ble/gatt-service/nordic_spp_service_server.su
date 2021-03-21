@@ -1,0 +1,5 @@
+nordic_spp_service_server.c:68:17:nordic_spp_service_read_callback	24	static
+nordic_spp_service_server.c:82:12:nordic_spp_service_write_callback	24	static
+nordic_spp_service_server.c:104:6:nordic_spp_service_server_init	32	static
+nordic_spp_service_server.c:141:6:nordic_spp_service_server_request_can_send_now	16	static
+nordic_spp_service_server.c:151:5:nordic_spp_service_server_send	16	static

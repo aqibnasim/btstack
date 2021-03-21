@@ -1,0 +1,11 @@
+btstack_sbc_plc.c:73:14:sqrt3	24	static
+btstack_sbc_plc.c:90:14:absolute	16	static
+btstack_sbc_plc.c:95:14:CrossCorrelation	40	static
+btstack_sbc_plc.c:110:12:PatternMatch	32	static
+btstack_sbc_plc.c:125:14:AmplitudeMatch	32	static
+btstack_sbc_plc.c:142:22:crop_sample	24	static
+btstack_sbc_plc.c:149:11:btstack_sbc_plc_zero_signal_frame	4	static
+btstack_sbc_plc.c:153:6:btstack_sbc_plc_init	16	static
+btstack_sbc_plc.c:307:6:btstack_sbc_plc_bad_frame	64	static
+btstack_sbc_plc.c:386:6:btstack_sbc_plc_good_frame	48	static
+btstack_sbc_plc.c:437:6:btstack_sbc_dump_statistics	24	static

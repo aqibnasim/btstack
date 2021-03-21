@@ -1,0 +1,14 @@
+btstack_em9304_spi_embedded.c:59:13:btstack_em9304_spi_embedded_ready	8	static
+btstack_em9304_spi_embedded.c:64:13:btstack_em9304_spi_transfer_done	8	static
+btstack_em9304_spi_embedded.c:69:13:btstack_em9304_spi_embedded_process	16	static
+btstack_em9304_spi_embedded.c:93:12:btstack_em9304_spi_embedded_open	8	static
+btstack_em9304_spi_embedded.c:114:12:btstack_em9304_spi_embedded_close	8	static
+btstack_em9304_spi_embedded.c:128:13:btstack_em9304_spi_embedded_set_ready_callback	16	static
+btstack_em9304_spi_embedded.c:141:13:btstack_em9304_spi_embedded_set_transfer_done_callback	16	static
+btstack_em9304_spi_embedded.c:148:12:btstack_em9304_spi_embedded_get_ready	8	static
+btstack_em9304_spi_embedded.c:156:13:btstack_em9304_spi_embedded_set_chip_select	16	static
+btstack_em9304_spi_embedded.c:163:13:btstack_em9304_spi_embedded_get_fullduplex_support	8	static
+btstack_em9304_spi_embedded.c:173:13:btstack_em9304_spi_embedded_transceive	24	static
+btstack_em9304_spi_embedded.c:182:13:btstack_em9304_spi_embedded_transmit	16	static
+btstack_em9304_spi_embedded.c:191:13:btstack_em9304_spi_embedded_receive	16	static
+btstack_em9304_spi_embedded.c:208:30:btstack_em9304_spi_embedded_instance	4	static

@@ -1,0 +1,3 @@
+spp_server.c:56:13:spp_create_sdp_record_internal	40	static
+spp_server.c:132:6:spp_create_sdp_record	32	static
+spp_server.c:136:6:spp_create_custom_sdp_record	32	static

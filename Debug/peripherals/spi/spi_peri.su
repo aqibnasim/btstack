@@ -1,0 +1,16 @@
+spi_peri.c:70:6:spiInit	24	static
+spi_peri.c:88:6:spi_MspInit	16	static
+spi_peri.c:95:6:spi_MspDeInit	16	static
+spi_peri.c:102:6:spiInitTransaction	24	static
+spi_peri.c:111:6:spiNewTransferWait	32	static
+spi_peri.c:123:6:spiNewTransfer	24	static
+spi_peri.c:133:6:spiWaitComplete	16	static
+spi_peri.c:145:6:spiCheckBusy	16	static
+spi_peri.c:152:6:spiTransferResult	16	static
+spi_peri.c:163:6:spiTransfer	16	static
+spi_peri.c:190:6:spiReleaseLock	24	static
+spi_peri.c:217:6:HAL_SPI_TxCpltCallback	16	static
+spi_peri.c:224:6:HAL_SPI_RxCpltCallback	16	static
+spi_peri.c:231:6:HAL_SPI_TxRxCpltCallback	16	static
+spi_peri.c:238:6:HAL_SPI_ErrorCallback	16	static
+spi_peri.c:245:6:HAL_SPI_AbortCpltCallback	16	static

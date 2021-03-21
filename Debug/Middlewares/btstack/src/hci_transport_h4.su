@@ -1,0 +1,14 @@
+hci_transport_h4.c:174:12:hci_transport_h4_set_baudrate	24	static
+hci_transport_h4.c:179:13:hci_transport_h4_reset_statemachine	4	static
+hci_transport_h4.c:185:13:hci_transport_h4_trigger_next_read	8	static
+hci_transport_h4.c:190:13:hci_transport_h4_packet_complete	16	static
+hci_transport_h4.c:225:13:hci_transport_h4_block_read	16	static
+hci_transport_h4.c:324:13:hci_transport_h4_block_sent	8	static
+hci_transport_h4.c:356:12:hci_transport_h4_can_send_now	16	static
+hci_transport_h4.c:361:12:hci_transport_h4_send_packet	24	static
+hci_transport_h4.c:398:13:hci_transport_h4_init	24	static
+hci_transport_h4.c:425:12:hci_transport_h4_open	16	static
+hci_transport_h4.c:443:12:hci_transport_h4_close	8	static
+hci_transport_h4.c:452:13:hci_transport_h4_register_packet_handler	16	static
+hci_transport_h4.c:456:13:dummy_handler	16	static
+hci_transport_h4.c:731:25:hci_transport_h4_instance	16	static

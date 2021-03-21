@@ -1,0 +1,4 @@
+btstack_linked_queue.c:48:6:btstack_linked_queue_empty	16	static
+btstack_linked_queue.c:57:6:btstack_linked_queue_enqueue	16	static
+btstack_linked_queue.c:76:25:btstack_linked_queue_first	16	static
+btstack_linked_queue.c:85:25:btstack_linked_queue_dequeue	24	static

@@ -1,0 +1,7 @@
+avrcp_media_item_iterator.c:53:6:avrcp_media_item_iterator_init	24	static
+avrcp_media_item_iterator.c:59:6:avrcp_media_item_iterator_has_more	16	static
+avrcp_media_item_iterator.c:63:6:avrcp_media_item_iterator_next	24	static
+avrcp_media_item_iterator.c:73:10:avrcp_media_item_iterator_get_attr_id	16	static
+avrcp_media_item_iterator.c:77:10:avrcp_media_item_iterator_get_attr_charset	16	static
+avrcp_media_item_iterator.c:81:10:avrcp_media_item_iterator_get_attr_value_len	16	static
+avrcp_media_item_iterator.c:85:17:avrcp_media_item_iterator_get_attr_value	16	static

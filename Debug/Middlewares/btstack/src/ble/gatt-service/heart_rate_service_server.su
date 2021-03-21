@@ -1,0 +1,6 @@
+heart_rate_service_server.c:91:17:heart_rate_service_read_callback	24	static
+heart_rate_service_server.c:113:12:heart_rate_service_write_callback	32	static
+heart_rate_service_server.c:143:6:heart_rate_service_server_init	40	static
+heart_rate_service_server.c:178:13:heart_rate_service_can_send_now	136	static
+heart_rate_service_server.c:220:6:heart_rate_service_add_energy_expended	24	static
+heart_rate_service_server.c:230:6:heart_rate_service_server_update_heart_rate_values	32	static

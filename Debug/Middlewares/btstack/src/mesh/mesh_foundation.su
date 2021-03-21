@@ -1,0 +1,17 @@
+mesh_foundation.c:56:6:mesh_foundation_gatt_proxy_set	16	static
+mesh_foundation.c:61:9:mesh_foundation_gatt_proxy_get	4	static
+mesh_foundation.c:69:6:mesh_foundation_low_power_set	16	static
+mesh_foundation.c:74:9:mesh_foundation_low_power_get	4	static
+mesh_foundation.c:78:6:mesh_foundation_beacon_set	16	static
+mesh_foundation.c:83:9:mesh_foundation_beacon_get	4	static
+mesh_foundation.c:91:6:mesh_foundation_default_ttl_set	16	static
+mesh_foundation.c:95:9:mesh_foundation_default_ttl_get	4	static
+mesh_foundation.c:99:6:mesh_foundation_friend_set	16	static
+mesh_foundation.c:104:9:mesh_foundation_friend_get	4	static
+mesh_foundation.c:108:6:mesh_foundation_network_transmit_set	16	static
+mesh_foundation.c:113:9:mesh_foundation_network_transmit_get	4	static
+mesh_foundation.c:117:6:mesh_foundation_relay_set	16	static
+mesh_foundation.c:122:9:mesh_foundation_relay_get	4	static
+mesh_foundation.c:130:6:mesh_foundation_relay_retransmit_set	16	static
+mesh_foundation.c:135:9:mesh_foundation_relay_retransmit_get	4	static
+mesh_foundation.c:139:10:mesh_foundation_get_features	16	static

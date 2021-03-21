@@ -1,0 +1,14 @@
+btstack_chipset_cc256x.c:156:13:chipset_init	16	static
+btstack_chipset_cc256x.c:180:13:chipset_set_baudrate_command	16	static
+btstack_chipset_cc256x.c:190:13:chipset_set_bd_addr_command	16	static
+btstack_chipset_cc256x.c:203:12:get_max_power_for_modulation_type	24	static
+btstack_chipset_cc256x.c:220:12:get_highest_level_for_given_power	24	static
+btstack_chipset_cc256x.c:232:13:update_set_power_vector	32	static
+btstack_chipset_cc256x.c:271:13:update_set_class2_single_power	24	static
+btstack_chipset_cc256x.c:280:13:update_sleep_mode_configurations	16	static
+btstack_chipset_cc256x.c:288:13:update_init_script_command	24	static
+btstack_chipset_cc256x.c:307:33:chipset_next_command	24	static
+btstack_chipset_cc256x.c:370:6:btstack_chipset_cc256x_set_power	16	static
+btstack_chipset_cc256x.c:374:6:btstack_chipset_cc256x_set_power_vector	16	static
+btstack_chipset_cc256x.c:379:6:btstack_chipset_cc256x_set_init_script	16	static
+btstack_chipset_cc256x.c:392:27:btstack_chipset_cc256x_instance	4	static

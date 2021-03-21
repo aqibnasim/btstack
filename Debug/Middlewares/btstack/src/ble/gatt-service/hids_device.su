@@ -1,0 +1,15 @@
+hids_device.c:98:24:hids_device_get_instance_for_con_handle	16	static
+hids_device.c:103:24:hids_device_create_instance	4	static
+hids_device.c:108:13:hids_device_emit_event_with_uint8	48	static
+hids_device.c:125:13:hids_device_emit_event	48	static
+hids_device.c:141:13:hids_device_can_send_now	48	static
+hids_device.c:162:17:att_read_callback	40	static
+hids_device.c:208:12:att_write_callback	48	static
+hids_device.c:273:6:hids_device_init	40	static
+hids_device.c:344:6:hids_device_register_packet_handler	16	static
+hids_device.c:353:6:hids_device_request_can_send_now_event	32	static
+hids_device.c:368:6:hids_device_send_input_report	32	static
+hids_device.c:380:6:hids_device_send_output_report	32	static
+hids_device.c:392:6:hids_device_send_feature_report	32	static
+hids_device.c:404:6:hids_device_send_boot_mouse_input_report	32	static
+hids_device.c:416:6:hids_device_send_boot_keyboard_input_report	32	static

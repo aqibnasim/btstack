@@ -1,0 +1,4 @@
+pan.c:66:13:pan_create_service	48	static
+pan.c:223:6:pan_create_nap_sdp_record	56	static
+pan.c:229:6:pan_create_gn_sdp_record	56	static
+pan.c:234:6:pan_create_panu_sdp_record	56	static

@@ -1,0 +1,9 @@
+btstack_event.h:68:23:hci_event_packet_get_type	16	static
+btstack_event.h:173:23:hci_event_mesh_meta_get_subevent_code	16	static
+pb_gatt.c:73:13:pb_gatt_emit_pdu_sent	32	static
+pb_gatt.c:78:13:packet_handler	48	static
+pb_gatt.c:196:6:pb_gatt_init	8	static
+pb_gatt.c:205:6:pb_gatt_register_packet_handler	16	static
+pb_gatt.c:215:6:pb_gatt_send_pdu	16	static
+pb_gatt.c:236:6:pb_gatt_close_link	16	static
+pb_gatt.c:246:10:pb_gatt_create_link	16	static

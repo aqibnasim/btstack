@@ -1,0 +1,3 @@
+btstack_resample.c:43:6:btstack_resample_init	16	static
+btstack_resample.c:51:6:btstack_resample_set_factor	16	static
+btstack_resample.c:55:10:btstack_resample_block	72	static

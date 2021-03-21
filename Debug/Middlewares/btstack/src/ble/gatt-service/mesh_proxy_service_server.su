@@ -1,0 +1,10 @@
+mesh_proxy_service_server.c:78:13:mesh_proxy_service_emit_connected	32	static
+mesh_proxy_service_server.c:84:13:mesh_proxy_service_emit_disconnected	32	static
+mesh_proxy_service_server.c:90:23:mesh_proxy_service_get_instance_for_con_handle	24	static
+mesh_proxy_service_server.c:97:17:mesh_proxy_service_read_callback	40	static
+mesh_proxy_service_server.c:118:12:mesh_proxy_service_write_callback	40	static
+mesh_proxy_service_server.c:152:6:mesh_proxy_service_server_init	32	static
+mesh_proxy_service_server.c:182:6:mesh_proxy_service_server_send_proxy_pdu	24	static
+mesh_proxy_service_server.c:191:13:mesh_proxy_service_can_send_now	48	static
+mesh_proxy_service_server.c:209:6:mesh_proxy_service_server_request_can_send_now	32	static
+mesh_proxy_service_server.c:220:6:mesh_proxy_service_server_register_packet_handler	16	static

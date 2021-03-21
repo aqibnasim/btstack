@@ -1,0 +1,7 @@
+hfp_msbc.c:69:6:hfp_msbc_init	24	static
+hfp_msbc.c:75:6:hfp_msbc_deinit	8	static
+hfp_msbc.c:79:5:hfp_msbc_can_encode_audio_frame_now	4	static
+hfp_msbc.c:83:6:hfp_msbc_encode_audio_frame	24	static
+hfp_msbc.c:101:6:hfp_msbc_read_from_stream	24	static
+hfp_msbc.c:114:5:hfp_msbc_num_bytes_in_stream	4	static
+hfp_msbc.c:118:5:hfp_msbc_num_audio_samples_per_frame	8	static

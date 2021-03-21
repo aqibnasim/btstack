@@ -1,0 +1,9 @@
+mesh_generic_on_off_client.c:82:13:generic_client_send_message_unacknowledged	48	static
+mesh_generic_on_off_client.c:88:13:generic_client_send_message_acknowledged	48	static
+mesh_generic_on_off_client.c:94:9:mesh_generic_on_off_client_get	48	static
+mesh_generic_on_off_client.c:103:9:mesh_generic_on_off_client_set	48	static
+mesh_generic_on_off_client.c:118:9:mesh_generic_on_off_client_set_unacknowledged	48	static
+mesh_generic_on_off_client.c:131:9:mesh_generic_on_off_client_publish	48	static
+mesh_generic_on_off_client.c:141:13:generic_on_off_status_handler	56	static
+mesh_generic_on_off_client.c:179:26:mesh_generic_on_off_client_get_operations	4	static
+mesh_generic_on_off_client.c:183:6:mesh_generic_on_off_client_register_packet_handler	16	static

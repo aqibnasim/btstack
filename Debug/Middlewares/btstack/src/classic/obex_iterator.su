@@ -1,0 +1,11 @@
+obex_iterator.c:59:12:obex_packet_header_offset_for_opcode	16	static
+obex_iterator.c:70:13:obex_iterator_init	24	static
+obex_iterator.c:76:6:obex_iterator_init_with_request_packet	32	static
+obex_iterator.c:81:6:obex_iterator_init_with_response_packet	32	static
+obex_iterator.c:86:6:obex_iterator_has_more	16	static
+obex_iterator.c:90:6:obex_iterator_next	32	static
+obex_iterator.c:118:17:obex_iterator_get_hi	16	static
+obex_iterator.c:121:17:obex_iterator_get_data_8	16	static
+obex_iterator.c:124:17:obex_iterator_get_data_32	16	static
+obex_iterator.c:127:17:obex_iterator_get_data_len	24	static
+obex_iterator.c:147:17:obex_iterator_get_data	24	static

@@ -1,0 +1,17 @@
+btstack_tlv_flash_bank.c:82:17:btstack_tlv_flash_bank_align_size	24	static
+btstack_tlv_flash_bank.c:90:13:btstack_tlv_flash_bank_read	64	static
+btstack_tlv_flash_bank.c:111:13:btstack_tlv_flash_bank_write	64	static
+btstack_tlv_flash_bank.c:135:13:btstack_tlv_flash_bank_iterator_fetch_tag_len	32	static
+btstack_tlv_flash_bank.c:151:13:btstack_tlv_flash_bank_iterator_init	24	static
+btstack_tlv_flash_bank.c:158:12:btstack_tlv_flash_bank_iterator_has_next	16	static
+btstack_tlv_flash_bank.c:163:13:tlv_iterator_fetch_next	24	static
+btstack_tlv_flash_bank.c:183:12:btstack_tlv_flash_bank_get_latest_bank	56	static
+btstack_tlv_flash_bank.c:200:13:btstack_tlv_flash_bank_write_header	40	static
+btstack_tlv_flash_bank.c:210:12:btstack_tlv_flash_bank_test_erased	72	static
+btstack_tlv_flash_bank.c:231:13:btstack_tlv_flash_bank_erase_bank	24	static
+btstack_tlv_flash_bank.c:240:13:btstack_tlv_flash_bank_migrate	120	static
+btstack_tlv_flash_bank.c:294:13:btstack_tlv_flash_bank_delete_tag_until_offset	56	static
+btstack_tlv_flash_bank.c:323:12:btstack_tlv_flash_bank_get_tag	72	static
+btstack_tlv_flash_bank.c:358:12:btstack_tlv_flash_bank_store_tag	72	static
+btstack_tlv_flash_bank.c:410:13:btstack_tlv_flash_bank_delete_tag	24	static
+btstack_tlv_flash_bank.c:424:23:btstack_tlv_flash_bank_init_instance	64	static

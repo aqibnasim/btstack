@@ -1,0 +1,16 @@
+btstack_cvsd_plc.c:68:7:btstack_cvsd_plc_rcos	16	static
+btstack_cvsd_plc.c:74:14:sqrt3	24	static
+btstack_cvsd_plc.c:91:14:btstack_cvsd_plc_absolute	16	static
+btstack_cvsd_plc.c:96:14:btstack_cvsd_plc_cross_correlation	40	static
+btstack_cvsd_plc.c:111:5:btstack_cvsd_plc_pattern_match	32	static
+btstack_cvsd_plc.c:126:7:btstack_cvsd_plc_amplitude_match	40	static
+btstack_cvsd_plc.c:144:32:btstack_cvsd_plc_crop_sample	24	static
+btstack_cvsd_plc.c:151:6:btstack_cvsd_plc_init	16	static
+btstack_cvsd_plc.c:302:6:btstack_cvsd_plc_bad_frame	56	static
+btstack_cvsd_plc.c:373:6:btstack_cvsd_plc_good_frame	48	static
+btstack_cvsd_plc.c:419:12:count_equal_samples	32	static
+btstack_cvsd_plc.c:439:12:count_zeros	24	static
+btstack_cvsd_plc.c:450:12:zero_frame	16	static
+btstack_cvsd_plc.c:455:12:bad_frame	24	static
+btstack_cvsd_plc.c:461:6:btstack_cvsd_plc_process_data	40	static
+btstack_cvsd_plc.c:493:6:btstack_cvsd_dump_statistics	24	static
